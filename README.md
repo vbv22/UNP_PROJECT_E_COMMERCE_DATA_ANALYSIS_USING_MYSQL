@@ -1,1 +1,5 @@
 # UNP_PROJECT_E_COMMERCE_DATA_ANALYSIS_USING_MYSQL
+
+I did this project in collaboration with UNP, this SQL project focuses on creating and managing an online store database using MySQL. The database includes multiple tables such as customers, sellers, products, orders, order items, payments, and reviews. SQL queries were used to create the database structure, define relationships between tables, and insert sample records. The project also includes analytical queries to calculate total customers, total orders, total revenue, revenue per order, and average review scores. Joins and filtering queries were used to analyze customer locations, delivered orders, product details, and payment information. The database was designed using primary keys and foreign keys to maintain data accuracy and relationships between tables. Overall, this project demonstrates how SQL can be used for database creation, data management, and business analysis in an online shopping system.
+
+PROJECT FILE : https://drive.google.com/file/d/1yNElmZ7JTu9NtSyShesZ1wylvUJuopex/view?usp=sharing
